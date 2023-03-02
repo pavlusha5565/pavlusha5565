@@ -1,6 +1,6 @@
 ## Hi there! I'm frontend develloper
 
-I'm frontend develeper. Everyday i get to create expiriance with new technology, and tasks.
+I'm frontend developer. Everyday i get to create experience with new technology, and tasks.
 
 ## 🔭 I’m currently working on
 
