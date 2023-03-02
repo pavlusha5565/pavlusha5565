@@ -1,11 +1,9 @@
-<!--
-**pavlusha5565/pavlusha5565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi there! I'm frontend develloper
 
 I'm frontend develeper. Everyday i get to create expiriance with new technology, and tasks.
 
-## 🔭 I’m currently working on 
+## 🔭 I’m currently working on
+
 - [gamebot-server](https://github.com/pavlusha5565/gamebot-server) (Nestjs, postgres, docker)
 - [gamebot-front](https://github.com/pavlusha5565/game-bot-front) (React, mobx)
 
@@ -18,7 +16,9 @@ I'm frontend develeper. Everyday i get to create expiriance with new technology,
 </p>
 
 ## Ask me about
+
 - Anything?...
 
-## I’m currently learning: 
+## I’m currently learning:
+
 Nestjs, postgress.
