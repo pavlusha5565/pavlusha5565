@@ -5,7 +5,7 @@ I'm frontend developer. Everyday i get to create experience with new technology,
 ## 🔭 I’m currently working on
 
 - [gamebot-server](https://github.com/pavlusha5565/gamebot-server) (Nestjs, postgres, docker)
-- [gamebot-front](https://github.com/pavlusha5565/game-bot-front) (React, mobx)
+- [gamebot-client](https://github.com/pavlusha5565/gamebot-client) (next, mobx)
 
 ## How to reach me
 
