@@ -1,11 +1,8 @@
 ## Hi there! I'm frontend develloper
 
-I'm frontend developer. Everyday i get to create experience with new technology, and tasks.
+I'm frontend developer. React, ts. Everyday i get to create experience with new technology, and tasks.
 
 ## 🔭 I’m currently working on
-
-- [gamebot-server](https://github.com/pavlusha5565/gamebot-server) (Nestjs, postgres, docker)
-- [gamebot-client](https://github.com/pavlusha5565/gamebot-client) (next, mobx)
 
 ## How to reach me
 
@@ -21,4 +18,4 @@ I'm frontend developer. Everyday i get to create experience with new technology,
 
 ## I’m currently learning:
 
-Nestjs, postgress.
+Java spring boot.
